@@ -51,7 +51,7 @@ const InOrder = (node) => {
 
 
 
-// Postorder (root, left, right)
+// Preorder (root, left, right)
 // 1, 2, 4, 5, 3 
 
 const postorder = (node) => {
